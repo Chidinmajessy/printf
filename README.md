@@ -1,1 +1,1 @@
-team project "Printf"
+solutions to printf project
